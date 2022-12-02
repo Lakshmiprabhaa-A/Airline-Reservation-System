@@ -6,12 +6,12 @@ stakeholders (Customers and AirLine Staffs) who were the direct or indirect bene
 Functionalities:
   i ) To check that the System is used by Authorises Users the Login window is created. After Login the Window with correct Username 
 and password only, user get the access to the MainWindow.
-        
-        ![Login](https://user-images.githubusercontent.com/118062460/205238786-b693c057-aeaa-4209-a9a9-3961fa55bcec.jpg)
-        
+      ![Login](https://user-images.githubusercontent.com/118062460/205248922-18d476ac-00f4-4923-b215-82599b018606.jpg)
+
   ii) MainWindow consists of Menus - (Customer, ticket and User) which consists of following Menu Items:
         
-        ![Menu](https://user-images.githubusercontent.com/118062460/205242676-b6302a2e-17ca-4dfe-bcff-fccdab27e8ac.jpg)
+      ![Menu](https://user-images.githubusercontent.com/118062460/205249121-8799f207-c3dc-4e1a-8b12-76ebce0efe55.jpg)
+
   iii) 
   Menu Item 1: ADD CUSTOMER - TO STORE THE DETAILS OF THE CUSTOMER.
        
