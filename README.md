@@ -46,8 +46,8 @@ BASED ON THE BUSINESS OR ECONOMY CLASS.
   - IF SEATS REQUIRED SATISFIES THE SEAT AVAILABILITY, FIND FARE BUTTON FUNCTIONALITITY AND FINALLY THE TICKET GETS CONFIRMED.
         
        ![Booking3](https://user-images.githubusercontent.com/118062460/205242995-28280d9a-14d7-4576-bd36-167dca5f2ddc.jpg)
-        ![Booking4](https://user-images.githubusercontent.com/118062460/205243041-97d8d193-6eb2-4479-a28c-e69f2e789d0a.jpg)
-      
+       ![Booking4](https://user-images.githubusercontent.com/118062460/205251112-5393714a-52b9-4768-865d-470bca831082.jpg)
+
   Menu Item 5: REPORT - TO GET THE CUSTOMER DETAILS AND THE FLIGHT DETAILS JUST BY ENTERING THE TICKET ID.
         
    ![Report](https://user-images.githubusercontent.com/118062460/205243106-213c4763-63e0-4133-af85-7bc757286f3d.jpg)
